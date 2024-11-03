@@ -1,6 +1,5 @@
+**FTP File Transfer Project**
 
-
-readme_content = """# FTP File Transfer Project
 
 This project is a simple implementation of an FTP-like file transfer system using Python sockets. It enables file upload, download, listing, and deletion between a client and server over a TCP connection. The server listens for incoming connections and handles commands from the client, while the client can connect to the server, send files, retrieve files, and manage files on the server.
 
